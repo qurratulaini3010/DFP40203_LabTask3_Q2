@@ -1,0 +1,15 @@
+Name: amani
+ Contact Info: 0123456778
+ Position: chief            
+Monthly Sales: RM 4000            
+Comission: RM 200
+Yearly Bonus: RM 3360
+Total Incentive: RM 3560
+Name: amani
+ Contact Info: 01234556788
+ Position: director            
+Monthly Sales: RM 4000            
+Comission: RM 200
+Yearly Bonus: RM 3360
+Total Incentive: RM 3560
+
